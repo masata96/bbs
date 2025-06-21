@@ -1,0 +1,16 @@
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250621-14388-p8i2ly sitelibdir\=./.gem.20250621-14388-p8i2ly clean
+
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250621-14388-p8i2ly sitelibdir\=./.gem.20250621-14388-p8i2ly
+generating escape-x64-mingw-ucrt.def
+compiling escape.c
+linking shared-object cgi/escape.so
+
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/cgi-0.5.0/ext/cgi/escape
+make DESTDIR\= sitearchdir\=./.gem.20250621-14388-p8i2ly sitelibdir\=./.gem.20250621-14388-p8i2ly install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20250621-14388-p8i2ly/cgi

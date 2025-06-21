@@ -1,0 +1,14 @@
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/nio4r-2.7.4/ext/nio4r
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 extconf.rb
+
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250621-14388-jn3i01 sitelibdir\=./.gem.20250621-14388-jn3i01 clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250621-14388-jn3i01 sitelibdir\=./.gem.20250621-14388-jn3i01
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/Users/masaf/nekojarashi/github/bbs/blog_api/vendor/bundle/ruby/3.1.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250621-14388-jn3i01 sitelibdir\=./.gem.20250621-14388-jn3i01 install
+make: 'install' に対して行うべき事はありません.
